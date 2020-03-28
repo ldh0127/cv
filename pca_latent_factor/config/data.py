@@ -1,12 +1,11 @@
 import pandas as pd
 from pathlib import Path
-
-ROOT = Path(r"G:\공유 드라이브\DATA\dataguide")
+BASE_DIR = Path(r"G:\공유 드라이브\DATA\dataguide")
 
 
 def load_prc():
-    close_prc_path = str(ROOT / "daily" / "close_prc" / "close_prc.csv")
-    backward_adj_p = str(ROOT / "daily" / "adj_prc" / "adj_prc.csv")
+    close_prc_path = str(BASE_DIR / "daily" / "close_prc" / "close_prc.csv")
+    backward_adj_p = str(BASE_DIR / "daily" / "adj_prc" / "adj_prc.csv")
     close_prc = pd.read_csv(
         close_prc_path, parse_dates=True, index_col=0, thousands=","
     )

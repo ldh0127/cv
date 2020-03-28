@@ -1,7 +1,6 @@
 import argparse
 from pathlib import Path
 import os
-
 BASE_DIR = Path(r"G:\공유 드라이브\DATA\pca_factor")
 
 
