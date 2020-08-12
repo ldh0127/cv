@@ -19,5 +19,7 @@
 - 데이터 분석 준전문가
 - 컴퓨터 활용능력 2급
 ## 연구중인 분야
-- 시장 이상현상에 대한 재고찰 – 이상현상의 복제와 확인
-- Do Some Bitcoin Exchanges Lead the Others? An Empirical Analysis
+- Do Some Bitcoin Exchanges Lead the Others? An Empirical Analysis ‘in preparation’ 
+- Agnostic fundamental analysis works in Korea ‘in preparation’ 
+
+- Han, M., Lee, D. H., & Kang, H. G. (2020). Market anomalies in the Korean stock market. Journal of Derivatives and Quantitative Studies: Seonmul yeon’gu.
