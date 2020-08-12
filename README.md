@@ -21,5 +21,4 @@
 ## 연구중인 분야
 - Do Some Bitcoin Exchanges Lead the Others? An Empirical Analysis ‘in preparation’ 
 - Agnostic fundamental analysis works in Korea ‘in preparation’ 
-
 - Han, M., Lee, D. H., & Kang, H. G. (2020). Market anomalies in the Korean stock market. Journal of Derivatives and Quantitative Studies: Seonmul yeon’gu.
